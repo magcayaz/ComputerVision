@@ -6,7 +6,8 @@
 % Report includes (a) flow-chart of (input-output) stepwise methods used;(b1) histograms for input B/W images;
 % (b2) input-output displays; (c) timing; and (d) MATLAB code.
 
-
+%Otsurec written by: Alceu Costa: 
+%http://www.mathworks.com/matlabcentral/fileexchange/43410-em-mpm-image-segmentation-algorithm/content/otsurec.m
 %image reference 1st: http://bobbycorpus.files.wordpress.com/2012/01/sample_gray_levels.png
 %image reference 2nd: http://bobbycorpus.files.wordpress.com/2012/01/levels_of_gray.png
 %image reference 3rd: http://scien.stanford.edu/pages/labsite/2000/psych221/projects/00/trek/CameraGamma.html

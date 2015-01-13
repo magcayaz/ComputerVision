@@ -6,7 +6,8 @@
 % Report includes (a) flow-chart of (input-output) stepwise methods used;(b1) histograms for input B/W images;
 % (b2) input-output displays; (c) timing; and (d) MATLAB code.
 
-
+%Otsurec written by: Alceu Costa: 
+%http://www.mathworks.com/matlabcentral/fileexchange/43410-em-mpm-image-segmentation-algorithm/content/otsurec.m
 %image reference 2nd: http://www.usaflagsupply.com/
 M1 = imread('M1.JPG');
 M2 = imread('M2.JPG');
